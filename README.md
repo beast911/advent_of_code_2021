@@ -1,4 +1,4 @@
-# advent_of_code_2021
+# Advent_0f_c0dE_2021
 
 # --- Day 1: Sonar Sweep ---
 
