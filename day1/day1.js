@@ -19,6 +19,4 @@ const findIncreasingPoints = (input) => {
   return count;
 };
 
-// console.log($file.toString().split('\n'));
-
 console.log(findIncreasingPoints(data));
