@@ -2,6 +2,11 @@ const fs = require('fs');
 
 const $file = fs.readFileSync('./input/day1.input');
 
+const data = $file
+  .toString()
+  .split('\n')
+  .map((n) => Number(n));
+
 const findIncreasingPoints = (input) => {
   let count = 0;
   let lastVal = 0;
@@ -16,11 +21,4 @@ const findIncreasingPoints = (input) => {
 
 // console.log($file.toString().split('\n'));
 
-console.log(
-  findIncreasingPoints(
-    $file
-      .toString()
-      .split('\n')
-      .map((n) => Number(n)),
-  ),
-);
+console.log(findIncreasingPoints(data));
