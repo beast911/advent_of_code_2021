@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const $file = fs.readFileSync('./day1/day1.input');
+const $file = fs.readFileSync('./input/day1.input');
 
 const findIncreasingPoints = (input) => {
   let count = 0;
