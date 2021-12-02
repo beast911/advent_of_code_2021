@@ -1,6 +1,7 @@
-# Advent_0f_c0dE_2021
+# @dvent_0f_c0dE_2021
 
 # --- Day 1: Sonar Sweep ---
+### [s0lut!0n](https://github.com/beast911/advent_of_code_2021/blob/main/day1/day1.js)
 
 You're minding your own business on a ship at sea when the overboard alarm goes off! You rush to see if you can help. Apparently, one of the Elves tripped and accidentally sent the sleigh keys flying into the ocean!
 
