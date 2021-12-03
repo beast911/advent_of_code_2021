@@ -87,6 +87,9 @@ Consider sums of a three-measurement sliding window. How many sums are larger th
 
 ---
 # --- Day 2: Dive! ---
+
+## --- Part One ---
+### [s0lut!0n](https://github.com/beast911/advent_of_code_2021/blob/main/day2/part1.js)
 Now, you need to figure out how to pilot this thing.
 
 It seems like the submarine can take a series of commands like forward 1, down 2, or up 3:
