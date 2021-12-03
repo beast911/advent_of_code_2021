@@ -16,7 +16,7 @@ const findIncreasingPoints = (input) => {
     }
     lastVal = input[i];
   }
-  return count;
+  return count - 1;
 };
 
 console.log(findIncreasingPoints(data));
